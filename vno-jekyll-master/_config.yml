@@ -1,11 +1,12 @@
 # Basic
-title: Vno Jekyll
-subtitle: A blog-orientation theme for Jekyll
-welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
-description: Vno Jekyll is a port of my Ghost theme vno.
-creator: <a href="http://onev.cat">@onevcat</a>
+title: 彭序猿
+subtitle: 耕读传家，学为好人
+welcome_message: 我们做技术的，不会耍什么心眼，从来都是你看我顺眼，我看你顺眼，那我们就是好基友～
+# <a href="http://pengxuyuan.github.io" target="_blank">Download the theme</a>
+description: 你好，我是彭序猿，目前在iOS开发的道路上探索，这里会写点关于iOS开发blog，还有一些生活上的琐碎事儿。
+creator: <a href="http://pengxuyuan.github.io">@彭序猿</a>
 
-url: "http://vno.onevcat.com"
+url: "http://pengxuyuan.github.io"
 
 permalink: /:year/:month/:title/
 
@@ -16,16 +17,16 @@ redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript", tables]
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-cover_color: red
+cover_color: slate
 
 # The blog button should not be removed.
 blog_button:
-    title: Blog
+    title: 博客
     description: Visit blog
 
 # Navigation buttons in the front page.
 nav:
-    - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
+    # - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
@@ -35,16 +36,16 @@ paginate_path: "page/:num/"
 
 # Comment
 comment:
-    disqus: vno-jekyll
-    # duoshuo: 
-    
+    # disqus: vno-jekyll
+    duoshuo: pengxuyuan
+
 # Social
 social:
-    weibo: onevcat
-    github: onevcat
-    twitter: onevcat
-    gplus: 107108267983477358170
-    mail: onev@onevcat.com
+    weibo: pengguang9412197045
+    github: pengxuyuan
+    #twitter:
+    #gplus:
+    mail: 451946155@qq.com
 
 # Google Analytics
 ga:

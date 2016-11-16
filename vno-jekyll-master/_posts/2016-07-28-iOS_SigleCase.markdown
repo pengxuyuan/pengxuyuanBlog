@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ios单例模式
+title: iOS单例模式
 date: 2016-07-28
 ---
 
